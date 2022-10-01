@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to play soccer
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://niket-portfolio.netlify.app/images/hero.svg">
 
 
 - 👨‍💻 You can also check out my portfolio at [https://niket-portfolio.netlify.app/](https://niket-portfolio.netlify.app/)
