@@ -55,6 +55,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Position Property in CSS](https://niket-points.hashnode.dev/position-property-in-css)
 - [What is DOM ?](https://niket-points.hashnode.dev/what-is-dom)
+- [Variables in JavaScript](https://niket-points.hashnode.dev/variables-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://niket-points.hashnode.dev/)
