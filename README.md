@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://niket-portfolio.netlify.app/images/hero.svg">
 
 
-- 👨‍💻 You can also check out my portfolio at [https://niket-portfolio-v2.netlify.app/](https://niket-portfolio.netlify.app/)
+- 👨‍💻 You can also check out my portfolio at [https://niket-portfolio-v2.netlify.app/](https://niket-portfolio-v2.netlify.app/)
 
 - 📫 How to reach me **niketvns97@gmail.com**
  
