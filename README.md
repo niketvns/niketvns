@@ -4,14 +4,14 @@
 ## I'm a Student, Coder,and Developer!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with developers
-- 🥅 2022 Goals: Contribute Open Source projects
+- 🥅 2023 Goals: Contribute Open Source projects
 - ⚡ Fun fact: I love to play soccer
 
 
 <img align="right" alt="Coding" width="400" src="https://niket-portfolio.netlify.app/images/hero.svg">
 
 
-- 👨‍💻 You can also check out my portfolio at [https://niket-portfolio-v2.netlify.app/](https://niket-portfolio-v2.netlify.app/)
+- 👨‍💻 You can also check out my portfolio at [https://niket.netlify.app/](https://niket-portfolio-v2.netlify.app/)
 
 - 📫 How to reach me **niketvns97@gmail.com**
  
