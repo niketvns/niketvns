@@ -58,11 +58,13 @@
 - [Variables in JavaScript](https://niket-points.hashnode.dev/variables-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://niket-points.hashnode.dev/)
+<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketvns&show_icons=true&locale=en&layout=compact" alt="niket" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketvns&show_icons=true&locale=en" alt="Nik" /></p>
 
-➡️ [more blog posts...](https://niket-points.hashnode.dev/)
 <br/>
 <br/>
 
