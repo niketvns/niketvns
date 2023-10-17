@@ -70,3 +70,6 @@ I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor <img
 ➡️ [more blog posts...](https://niket-points.hashnode.dev/)
 <br/>
 
+<em>
+  <b>Take Risk in your life, If you win: you may lead, if you loose: you may guide...</b>
+</em>
