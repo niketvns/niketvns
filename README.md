@@ -1,56 +1,65 @@
+<div id="header" align="center">
+  <h1> Hi 👋 I'm Niket Kumar Mishra.</h1>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/niket-kumar-mishra-37ab5a215/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"/>
+    </a>
+    <a href="https://twitter.com/Niketmishravns">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height=25/>
+    </a>
+   <a href="https://www.instagram.com/mishrank_mkp25675/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height=25/>
+    </a>
+   <a href="https://niket-points.hashnode.dev/">
+      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge" height=25/>
+    </a>
+  </div>
+</div>
 
-<h1 align="center">Hi 👋, I'm Niket Kumar Mishra</h1>
-
-## I'm a Student, Coder,and Developer!!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with developers
-- 🥅 2023 Goals: Contribute Open Source projects
-- ⚡ Fun fact: I love to play soccer
+### 💻 About Me
+I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- Passionate about leveraging the MERN (MongoDB, Express.js, React, Node.js) stack to craft exceptional web applications that exceed user expectations.
+- Committed to clean code, continuous learning, and effective communication to drive professional growth and project success.
+- Share knowledge through LinkedIn, Twitter and Blogs.
 
 
-<img align="right" alt="Coding" width="400" src="https://niket-portfolio.netlify.app/images/hero.svg">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 - 👨‍💻 You can also check out my portfolio at [https://niketmishra.me/](https://niketmishra.me/)
-
 - 📫 How to reach me **niketvns97@gmail.com**
- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/niket-kumar-mishra-37ab5a215/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="_niket" height="40" width="40" /></a>
-<a href="https://www.instagram.com/mishrank_mkp25675/" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/100/000000/instagram-new.png" alt="_niket" height="40" width="40" /></a>
-</p>
-
-### Languages and Tools:
-
-
-<img align="left" alt="cpp" width="26px" src="https://img.icons8.com/fluency/48/228BE6/c-plus-plus-logo.png" />
-
-<img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 <br/>
+
+<h2>:hammer_and_wrench: Languages and Tools</h2>
+<div id="header">
+  <div id="badges">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
+   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="REACT Badge"/>
+   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="REDUX Badge"/>
+   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NEXT Badge"/>
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE Badge"/>
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB Badge"/>
+   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TAILWIND Badge"/>
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT Badge"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB Badge"/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  </div>
+</div>
+
 <br/>
 
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/external-sbts2018-flat-sbts2018/58/000000/external-javascript-basic-ui-elements-2.3-sbts2018-flat-sbts2018.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<h2>📈 My Stats</h2>
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://img.icons8.com/nolan/64/github.png" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketvns&show_icons=true&locale=en&layout=compact&theme=prussian" alt="Stats" height="180" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketvns&show_icons=true&locale=en&theme=prussian" alt="Github Stats" height="180" /></p>
 
-<br />
-<br />
-<br />
+<br/>
 
-
-### 📕 Latest Blog Posts
+<h2>📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Position Property in CSS](https://niket-points.hashnode.dev/position-property-in-css)
@@ -59,12 +68,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://niket-points.hashnode.dev/)
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketvns&show_icons=true&locale=en&layout=compact" alt="niket" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketvns&show_icons=true&locale=en" alt="Nik" /></p>
-
-<br/>
 <br/>
 
