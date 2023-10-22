@@ -65,6 +65,7 @@ I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor <img
 - [Position Property in CSS](https://niket-points.hashnode.dev/position-property-in-css)
 - [What is DOM ?](https://niket-points.hashnode.dev/what-is-dom)
 - [Variables in JavaScript](https://niket-points.hashnode.dev/variables-in-javascript)
+- [Understanding the Magic of Async and Defer Attributes in HTML](https://medium.com/@niketvns/async-defer-in-html-f600ca34eba5)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://niket-points.hashnode.dev/)
