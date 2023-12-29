@@ -21,13 +21,16 @@ I am a MERN Stack Developer, Full-Stack Enthusiast, Open Source Contributor <img
 - Passionate about leveraging the MERN (MongoDB, Express.js, React, Node.js) stack to craft exceptional web applications that exceed user expectations.
 - Committed to clean code, continuous learning, and effective communication to drive professional growth and project success.
 - Share knowledge through LinkedIn, Twitter and Blogs.
-
+- 👨‍💻 You can also check out my portfolio at [https://niketmishra.me/](https://niketmishra.me/)
+- 📫 How to reach me **niketvns97@gmail.com**
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+### Goals for 2024
+- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" width="200"/>
+- <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" width="150" height="40"/>
 
-- 👨‍💻 You can also check out my portfolio at [https://niketmishra.me/](https://niketmishra.me/)
-- 📫 How to reach me **niketvns97@gmail.com**
+
 
 <br/>
 
