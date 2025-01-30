@@ -28,8 +28,10 @@ I am a Software Developer, Full-Stack Enthusiast, Open Source Contributor <img s
 
 ### 🎯 Goals for 2025
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" width="200"/>
+<img src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="150" height="40"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" width="150" height="40"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" width="150" height="40"/>
+
 
 
 
