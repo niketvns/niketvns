@@ -1,89 +1,174 @@
-<div id="header" align="center">
-  <h1> Hi 👋 I'm Niket Kumar Mishra.</h1>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/niket-kumar-mishra-37ab5a215/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"/>
-    </a>
-    <a href="https://twitter.com/Niketmishravns">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height=25/>
-    </a>
-   <a href="https://www.instagram.com/mishrank_mkp25675/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height=25/>
-    </a>
-   <a href="https://niket-points.hashnode.dev/">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge" height=25/>
-    </a>
-  </div>
+ <div align="center">
+
+# Hi 👋, I'm Niket Kumar Mishra
+
+### Software Engineer | Next.js & React | Java Spring Boot
+
+Building scalable web applications, production-ready APIs, and reliable software systems.
+
+<p>
+  <a href="https://www.linkedin.com/in/niket-kumar-mishra-37ab5a215/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/niketvns">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://niketmishra.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://niket-points.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+  </a>
+</p>
+
 </div>
 
-### 💻 About Me
-I am a Software Developer, Full-Stack Enthusiast, Open Source Contributor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- Passionate about leveraging the MERN (MongoDB, Express.js, React, Node.js) stack to craft exceptional web applications that exceed user expectations.
-- Committed to clean code, continuous learning, and effective communication to drive professional growth and project success.
-- Share knowledge through LinkedIn, Twitter and Blogs.
-- 👨‍💻 You can also check out my portfolio at [https://niketmishra.vercel.app/](https://niketmishra.vercel.app/)
-- 📫 How to reach me **niketmishra.developer@gmail.com**
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+I'm a Software Engineer from India with **3+ years of professional experience** building and maintaining production web applications.
 
-### 🎯 Goals for 2025
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" width="200"/>
-<img src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="150" height="40"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" width="150" height="40"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" width="150" height="40"/>
+My primary focus is frontend engineering with **Next.js, React, and TypeScript**, alongside backend development using **Java and Spring Boot**.
 
+I enjoy solving real-world engineering problems, designing maintainable application architectures, integrating third-party services, and improving application performance and reliability.
 
+- 💼 Working on production software in the real estate technology domain.
+- ⚛️ Building scalable, responsive, and performance-focused applications with Next.js and React.
+- ☕ Developing REST APIs and backend integrations with Java, Spring Boot, and SQL databases.
+- 🔄 Working on CRM integrations, data synchronization, and API-driven systems.
+- ☁️ Exploring cloud infrastructure, AWS deployments, and production observability.
+- 📚 Continuously strengthening my knowledge of Data Structures and Algorithms, Computer Science fundamentals, and system design.
+- ✍️ Sharing technical knowledge and learning through hands-on projects.
 
+📫 **Email:** niketmishra.developer@gmail.com
 
-<br/>
+🌐 **Portfolio:** [niketmishra.vercel.app](https://niketmishra.vercel.app/)
 
-<h2>:hammer_and_wrench: Languages and Tools</h2>
-<div id="header">
-  <div id="badges">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
-   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="REACT Badge"/>
-   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="REDUX Badge"/>
-   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NEXT Badge"/>
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE Badge"/>
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/>
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB Badge"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre SQL"/>
-   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TAILWIND Badge"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Lang"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT Badge"/>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB Badge"/>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-    <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" alt="Sonarlint"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
-  </div>
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/>
+</p>
+
+### Databases & Data Management
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+### Cloud, Tools & Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho CRM"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
+</p>
+
+## 🚀 What I Work On
+
+- **Production Web Applications:** Developing and maintaining real-world applications using Next.js, React, TypeScript, and modern frontend architecture.
+- **Backend APIs:** Building RESTful services and integrating frontend applications with Java Spring Boot backends.
+- **Data Synchronization:** Designing efficient synchronization workflows between external CRM systems and relational databases.
+- **Performance Optimization:** Improving rendering strategies, API response handling, image optimization, and overall user experience.
+- **Cloud & Deployment:** Working with deployment pipelines, application hosting, server logs, and production troubleshooting.
+- **Third-Party Integrations:** Connecting applications with CMS platforms, CRM systems, analytics, and external APIs.
+
+## 📌 Featured Work
+
+### 🏡 RealtyBlocks
+
+Working on a real estate technology platform focused on property discovery and property-related workflows.
+
+**Key areas of contribution:**
+- Frontend development using Next.js, React, and TypeScript.
+- API integration and frontend architecture.
+- Java Spring Boot backend API development.
+- Zoho CRM integration and property data synchronization.
+- MySQL-backed data workflows and application performance optimization.
+- Deployment and troubleshooting of production applications.
+
+### 🧩 Property Synchronization System
+
+Engineering a synchronization workflow to keep property records and associated data consistent between Zoho CRM and MySQL.
+
+**Key areas of contribution:**
+- Integrating CRM data with relational database storage.
+- Synchronizing property records and related sub-form data.
+- Using event-driven updates and scheduled synchronization for data consistency.
+- Improving API efficiency by reducing unnecessary repeated data fetching.
+
+### 💻 Personal Projects
+
+I also explore independent projects to experiment with new technologies and strengthen my full-stack engineering skills.
+
+Explore my repositories for web applications, UI experiments, and other development projects.
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=niketvns&show_icons=true&theme=github_dark&hide_border=true" alt="Niket's GitHub Stats" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niketvns&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=niketvns&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
+
 </div>
 
-<br/>
+## 🎯 Current Focus
 
-<h2>📈 My Stats</h2>
+- Deepening my expertise in Next.js, React, and scalable frontend architecture.
+- Building stronger backend engineering skills with Java and Spring Boot.
+- Improving my understanding of system design, database optimization, and distributed systems.
+- Practicing Data Structures and Algorithms and strengthening core Computer Science fundamentals.
+- Exploring AWS, cloud infrastructure, and reliable production deployments.
+- Building useful products that solve real-world problems.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketvns&show_icons=true&locale=en&layout=compact&theme=prussian" alt="Stats" height="180" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketvns&show_icons=true&locale=en&theme=prussian" alt="Github Stats" height="180" /></p>
+## 📚 Writing & Learning
 
-<br/>
+I previously wrote about web development, JavaScript, and CSS on Hashnode.
 
-<h2>📕 Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
 - [Position Property in CSS](https://niket-points.hashnode.dev/position-property-in-css)
-- [What is DOM ?](https://niket-points.hashnode.dev/what-is-dom)
+- [What is DOM?](https://niket-points.hashnode.dev/what-is-dom)
 - [Variables in JavaScript](https://niket-points.hashnode.dev/variables-in-javascript)
-- [Understanding the Magic of Async and Defer Attributes in HTML](https://medium.com/@niketvns/async-defer-in-html-f600ca34eba5)
-<!-- BLOG-POST-LIST:END -->
+- [Async and Defer Attributes in HTML](https://medium.com/@niketvns/async-defer-in-html-f600ca34eba5)
 
-➡️ [more blog posts...](https://niket-points.hashnode.dev/)
-<br/>
+➡️ [Explore more on Hashnode](https://niket-points.hashnode.dev/)
 
-<em>
-  <b>Take Risk in your life, If you win: you may lead, if you loose: you may guide...</b>
-</em>
+---
+
+<div align="center">
+
+### 💡 A little reminder
+
+**"Take risks in your life. If you win, you may lead; if you lose, you may guide."**
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</div>
